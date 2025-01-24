@@ -1,3 +1,3 @@
 # Polttyergeist
 A ghostty-like terminal, made in Zig, but for windows and less dependencies.\
-_To be made soon!_
+_To be made in 30 hours!_
